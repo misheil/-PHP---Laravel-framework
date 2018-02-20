@@ -5,7 +5,7 @@ Good Luck!
 
 
 
-![alt text](https://github.com/misheil/Check-in-System/blob/master/public/img/project.gif)
+![alt text](https://github.com/misheil/-PHP---Laravel-framework/tree/master/public/img/project.gif)
 
 The commands which I used in this project :
 
