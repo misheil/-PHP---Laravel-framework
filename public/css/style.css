@@ -1,0 +1,21 @@
+/* body {background-color: coral;} */
+
+#form_errors li:first-child{
+  padding-top: 15px;
+}
+
+#form_errors li{
+  padding-top: 5px;
+}
+
+#form_errors li:last-child{
+  padding-bottom: 15px;
+}
+
+#form_errors ul{
+  list-style: none;
+  padding-left: 20px;
+}
+.navname {
+  padding-top: 15px;
+}
